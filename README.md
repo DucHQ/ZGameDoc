@@ -94,14 +94,20 @@ Kết nối các phần Mechanics Model lại và Art để show cho End user
 - Drag drop game ( using Dictionary + Choise by Drag- drop Item)
 - Food game ( using Conversation Script - Action npc)
 
-
 ## Todo (Short-term)
 
 #### Art
 Update later
 
 #### Design
-Update later
+```
+- Property Item
+- Prototype Mini-Games RPG
+```
+
+3. Guild
+- Design Doc: Done
+
 
 #### Programmer
 ```
