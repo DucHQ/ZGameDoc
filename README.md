@@ -60,6 +60,7 @@ Là phần mà kết hợp rời rạc giữa Design Writers và Design Mechanic
 - Follow Character
 
 #### 1.3. Parameter ofcharacter
+
 Update later
 
 #### 1.4. Property (asset) of character:
@@ -72,7 +73,9 @@ Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năn
 - Pet
 
 #### 1.5. Package
+
 Package chứa input /output nhiều Property, sử dụng cho Shop, Gacha, Crafting
+
 Update more later
 
 ### 2. Mission/ Level Editor
@@ -97,6 +100,7 @@ Kết nối các phần Mechanics Model lại và Art để show cho End user
 ## Todo (Short-term)
 
 #### Art
+
 Update later
 
 #### Design
