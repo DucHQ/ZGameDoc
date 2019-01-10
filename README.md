@@ -105,10 +105,6 @@ Update later
 - Prototype Mini-Games RPG
 ```
 
-3. Guild
-- Design Doc: Done
-
-
 #### Programmer
 ```
 - Diễn cảnh nói chuyện giữa NPC & Character ( Bao gồm cắt cảnh, cử chỉ tay chân, mắt, miệng)
