@@ -1,3 +1,5 @@
+# ZGame
+
 ## Resource game
 Là phần input cơ bản của mỗi game
 
@@ -124,14 +126,14 @@ Update later
 - Dictionary ( từ điển: từ, định nghĩa, hình ảnh)
 ```
 
-## Note
+## Note more
 
-- Flow Art 3d
+- Flow Art 3d Human
 ```
 Concept -> dựng xương -> tách khối ( chia patch) -> phủ màu ( texture) -> hiệu ứng ( shader)
 ```
 
 - Flow Ui
 ```
-Chức năng + icon + hệ màu -> ux -> ui
+Chức năng + icon + style -> ux -> ui
 ```
