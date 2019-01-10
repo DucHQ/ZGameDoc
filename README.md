@@ -1,5 +1,3 @@
-# ZGame
-
 ## Resource game
 Là phần input cơ bản của mỗi game
 
