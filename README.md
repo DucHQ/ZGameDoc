@@ -1,4 +1,5 @@
 
+## Flow (Short-term)
 ### 1. Resource game
 Là phần input cơ bản của mỗi game
 
@@ -94,7 +95,7 @@ Kết nối các phần Mechanics Model lại và Art để show cho End user
 - Food game ( using Conversation Script - Action npc)
 
 
-### Todo (Short-term)
+## Todo (Short-term)
 
 #### Art
 Update later
