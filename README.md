@@ -1,6 +1,6 @@
 # ZGame
 
-## Resource game
+## 1. Resource game
 Là phần input cơ bản của mỗi game
 
 - Story
@@ -30,38 +30,39 @@ Là phần input cơ bản của mỗi game
 	- Item
 	- Dictionary
 
-## Game Mechanics Model
+## 1. Game Mechanics Model
 Là phần mà kết hợp rời rạc giữa Design Writers và Design Mechanics
 
-### 1. Map & Interior
+### 1.1. Map & Interior
 - Terrain, filler, doom, effect cho map city.
 - Exterior
 
-### 2. Script
+### 1.2. Script
 
-#### 2.1 Conversation
+#### 1.2.1 Conversation
 
-##### 2.1.1 Chat
+##### 1.2.1.1 Chat
 
-##### 2.1.1 Choice
+##### 1.2.1.1 Choice
 - List
 - Grid
 - Drag /drop
 
-#### 2.1 Character
+#### 1.2.1 Character
 - Reward items
 - Request move to
 - Request move by
 
-#### 2.3 NPC
+#### 1.2.3 NPC
 - Appear /disappeared
 - Request move to
 - Request move by
 - Follow Character
 
-### 3. Parameter ofcharacter
+### 1.3. Parameter ofcharacter
+Update later
 
-### 4. Property (asset) of character:
+### 1.4. Property (asset) of character:
 - Item
 ```
 Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năng lượng)
@@ -70,22 +71,26 @@ Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năn
 - Costumes
 - Pet
 
-## Mission/ Level Editor
+### 1.5. Package
+Package chứa input /output nhiều Property, sử dụng cho Shop, Gacha, Crafting
+Update more later
+
+## 2. Mission/ Level Editor
 Kết nối các phần Mechanics Model lại và Art để show cho End user
 
-### 1. Map
+### 2.1. Map
 - Build map layout cho map city
 - Create Quest ( assign NPC - Script)
 - Create Business ( assign Exterior - Interior - input /output Item)
 
-### 2. Ui-Dialog
+### 2.2. Ui-Dialog
 - Conversation chat, choice ( group, grid, drag- drop)
 - Shop
 - Gacha
 - Crafting
 - Business
 
-### 3. Minigame
+### 2.3. Minigame
 - Drag drop game ( using Dictionary + Choise by Drag- drop Item)
 - Food game ( using Conversation Script - Action npc)
 
@@ -128,7 +133,7 @@ Update later
 
 ## Note more
 
-- Flow Art 3d Human
+- Flow Art 3D Human
 ```
 Concept -> dựng xương -> tách khối ( chia patch) -> phủ màu ( texture) -> hiệu ứng ( shader)
 ```
