@@ -1,6 +1,12 @@
+---
+title: Build RPG-Education
+description: Tóm tắt buổi họp ngày 11/01/19
+permalink: /Meeting_11_01_19/
+---
 
 ## Flow (Short-term)
 How to build RPG-Education game
+Update 12/01/19
 
 ### 1. Resource game
 
