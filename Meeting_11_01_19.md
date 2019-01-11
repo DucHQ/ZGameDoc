@@ -1,3 +1,11 @@
+---
+title: Meeting 11/01/19
+description: Tóm tắt buổi họp ngày 11/01/19
+layout: page
+permalink: /Meeting_11_01_19/
+icons: true
+---
+
 Tóm tắt buổi họp ngày 12/01/19
 
 1. Hai bên giải thích những khó khăn đang gặp phải
