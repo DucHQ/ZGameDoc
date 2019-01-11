@@ -1,6 +1,6 @@
 ---
 title: Flow Build RPG-Education
-description: Tóm tắt buổi họp ngày 11/01/19
+description: How to build RPG-Education game
 permalink: /FlowBuildGameRPG-Education/
 ---
 
