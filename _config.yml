@@ -1,3 +1,5 @@
 relative_links:
   enabled:     true
   collections: false
+
+theme: jekyll-theme-midnight
