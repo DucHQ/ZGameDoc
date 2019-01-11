@@ -184,7 +184,7 @@ Update later
 - Dictionary (từ điển: từ, định nghĩa, hình ảnh)
 ```
 
-### Note more
+### Note
 
 - Flow Art 3D Human
 ```
@@ -196,6 +196,4 @@ Concept -> dựng xương -> tách khối (chia patch) -> texture -> shader
 Chức năng + icon + style -> ux -> ui
 ```
 
-```
-This doc will Update more
-```
+'This doc will Update more'
