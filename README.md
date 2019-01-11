@@ -35,10 +35,13 @@ Là phần input cơ bản của mỗi game
 	- Dictionary
 
 ### 1. Game Mechanics Model
-Là phần mà kết hợp rời rạc giữa Design Writers và Design Mechanics
+
+Là phần mà kết hợp rời rạc giữa Design Writers và Design Mechanics, hay có thể hiểu là phần input tool
 
 #### 1.1. Map & Interior
+
 - Terrain, filler, doom, effect cho map city.
+
 - Exterior
 
 #### 1.2. Script
@@ -48,32 +51,40 @@ Là phần mà kết hợp rời rạc giữa Design Writers và Design Mechanic
 ###### 1.2.1.1 Chat
 
 ###### 1.2.1.1 Choice
+
 - List
+
 - Grid
+
 - Drag /drop
 
 ##### 1.2.1 Character
+
 - Reward items
+
 - Request move to
+
 - Request move by
 
 ##### 1.2.3 NPC
+
 - Appear /disappeared
+
 - Request move to
+
 - Request move by
+
 - Follow Character
 
-#### 1.3. Parameter ofcharacter
+#### 1.3. Parameter of character
 
 Update later
 
 #### 1.4. Property (asset) of character:
 
-- Item
+- Items: gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năng lượng)
 
-Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năng lượng)
-
-- Business (sinh ra Property)
+- Business: sinh ra Property
 
 - Costumes
 
@@ -86,22 +97,33 @@ Package chứa input /output nhiều Property, sử dụng cho Shop, Gacha, Craf
 Update more later
 
 ### 2. Mission/ Level Editor
+
 Kết nối các phần Mechanics Model lại và Art để show cho End user
 
 #### 2.1. Map
+
 - Build map layout cho map city
+
 - Create Quest (assign NPC - Script)
+
 - Create Business (assign Exterior - Interior - input /output Item)
 
 #### 2.2. Ui-Dialog
+
 - Conversation chat, choice (group, grid, drag- drop)
+
 - Shop
+
 - Gacha
+
 - Crafting
+
 - Business
 
 #### 2.3. Minigame
+
 - Drag drop game (using Dictionary + Choise by Drag- drop Item)
+
 - Food game (using Conversation Script - Action npc)
 
 ## Todo (Short-term)
