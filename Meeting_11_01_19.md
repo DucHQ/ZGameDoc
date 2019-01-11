@@ -8,7 +8,7 @@ Tóm tắt buổi họp ngày 12/01/19
 - Bên Ava
 	- Khó khăn về việc thiếu kinh nghiệm trong lĩnh vực làm game RPG-Education dẫn tới việc thử/ sai khi build "Game Mechanics Model"
 	- Nêu khó khăn về tính xài lại & kết nối các input thô "Dialogue Writers" + "Concept art" + "Game Mechanics Designer"
-
+	
 Hướng giải quyết vấn đề
 	
 	- 19/1: Bên Ava ưu tiên build Screenshot game (Beauty shot) (Mô tả cụ thể ở p2)
