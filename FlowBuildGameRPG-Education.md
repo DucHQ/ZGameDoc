@@ -8,8 +8,6 @@ permalink: /FlowBuildGameRPG-Education/
 
 Flow build RPG-Education game
 
-Update 12/01/19
-
 ### 1. Resource game
 
 Là phần input cơ bản của mỗi game
@@ -196,4 +194,4 @@ Concept -> dựng xương -> tách khối (chia patch) -> texture -> shader
 Chức năng + icon + style -> ux -> ui
 ```
 
-> This doc will Update more
+*Last updated 12/01/19*
