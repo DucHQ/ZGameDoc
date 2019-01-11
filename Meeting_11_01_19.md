@@ -21,7 +21,7 @@ permalink: /Meeting_11_01_19/
 - 21/1: Bên Ava gởi bản timeline (Short-term) về những task hoàn thành tới 21/3 ( tức hai tháng sau đó)
 
 - Bên KD không can thiệp về flow build game của Ava (lưu ý can thiệp khác với feedback)
-- Những feedback của bên KD sẽ rơi vào một trong ba trang thái: yes, no, pending. Nếu nằm ở trạng thái pending thì có nghĩa bên Ava tại thời điểm đó không tự quyết được, có thể sẽ ảnh hưởng nhiều tới sản phẩm cuối, lúc đó bên KD hãy tạm bỏ qua việc đó.
+- Những feedback của bên KD sẽ rơi vào một trong ba trang thái: yes, no, pending. Nếu nằm ở trạng thái pending thì có nghĩa bên Ava tại thời điểm đó không tự quyết được, có thể sẽ ảnh hưởng nhiều tới sản phẩm cuối, lúc đó bên KD hãy tạm bỏ qua feedback đó.
 
 3. Screenshot game bàn giao ngày 19/1
 
