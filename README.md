@@ -151,8 +151,7 @@ Update later
 ```
 - Diễn cảnh nói chuyện giữa NPC & Character (Bao gồm cắt cảnh, cử chỉ tay chân, mắt, miệng)
 - Diễn cảnh kể chuyện Story
-- Chuyển cảnh move to 
-, Interior
+- Chuyển cảnh move to other Map or Interior
 ```
 ```
 - Action npc - follow nhân vật
