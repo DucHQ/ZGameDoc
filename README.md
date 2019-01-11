@@ -68,12 +68,15 @@ Là phần mà kết hợp rời rạc giữa Design Writers và Design Mechanic
 Update later
 
 #### 1.4. Property (asset) of character:
+
 - Item
-```
+
 Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năng lượng)
-```
+
 - Business (sinh ra Property)
+
 - Costumes
+
 - Pet
 
 #### 1.5. Package
