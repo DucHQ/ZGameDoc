@@ -187,5 +187,3 @@ Concept -> dựng xương -> tách khối (chia patch) -> texture -> shader
 ```
 Chức năng + icon + style -> ux -> ui
 ```
-
-[Meeting 11_01_19](Meeting_11_01_19.md)
