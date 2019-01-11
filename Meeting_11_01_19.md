@@ -6,7 +6,7 @@ permalink: /Meeting_11_01_19/
 icons: true
 ---
 
-Tóm tắt buổi họp ngày 12/01/19
+#Meeting_11_01_19
 
 1. Hai bên giải thích những khó khăn đang gặp phải
 
