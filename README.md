@@ -1,11 +1,15 @@
 
 ## Flow (Short-term)
+
 ### 1. Resource game
+
 Là phần input cơ bản của mỗi game
 
-- Story
+- Game Mechanics Designer
 
 - Dialogue Writers
+	- Story
+	- Conversation
 
 - Concept art
 	- Character
@@ -68,7 +72,7 @@ Update later
 ```
 Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năng lượng)
 ```
-- Business ( sinh ra Property)
+- Business (sinh ra Property)
 - Costumes
 - Pet
 
@@ -83,19 +87,19 @@ Kết nối các phần Mechanics Model lại và Art để show cho End user
 
 #### 2.1. Map
 - Build map layout cho map city
-- Create Quest ( assign NPC - Script)
-- Create Business ( assign Exterior - Interior - input /output Item)
+- Create Quest (assign NPC - Script)
+- Create Business (assign Exterior - Interior - input /output Item)
 
 #### 2.2. Ui-Dialog
-- Conversation chat, choice ( group, grid, drag- drop)
+- Conversation chat, choice (group, grid, drag- drop)
 - Shop
 - Gacha
 - Crafting
 - Business
 
 #### 2.3. Minigame
-- Drag drop game ( using Dictionary + Choise by Drag- drop Item)
-- Food game ( using Conversation Script - Action npc)
+- Drag drop game (using Dictionary + Choise by Drag- drop Item)
+- Food game (using Conversation Script - Action npc)
 
 ## Todo (Short-term)
 
@@ -111,7 +115,7 @@ Update later
 
 #### Programmer
 ```
-- Diễn cảnh nói chuyện giữa NPC & Character ( Bao gồm cắt cảnh, cử chỉ tay chân, mắt, miệng)
+- Diễn cảnh nói chuyện giữa NPC & Character (Bao gồm cắt cảnh, cử chỉ tay chân, mắt, miệng)
 - Diễn cảnh kể chuyện Story
 - Chuyển cảnh move to Map, Interior
 ```
@@ -124,7 +128,7 @@ Update later
 - Choise by Grid
 ```
 ```
-- Thay các từ định danh trong game ( tên Learner, tên NPC, giá tiền)
+- Thay các từ định danh trong game (tên Learner, tên NPC, giá tiền)
 - Highlight teaching points (giống như từ điển, câu nào có từ nằm trong từ điển đó thì sẽ đc đánh dấu và click vào sẽ pop up nghĩa lên)
 - Đổi font chữ
 ```
@@ -132,16 +136,16 @@ Update later
 - Add pet + ani ingame
 ```
 ```
-- Build Package editor ( 1 Package chứa input /output nhiều Property, sử dụng cho Shop, Gacha, Crafting).
-- Build input /output cho Business ( tài nguyên cần, tài nguyên được sinh ra )
-- Dictionary ( từ điển: từ, định nghĩa, hình ảnh)
+- Build Package editor (1 Package chứa input /output nhiều Property, sử dụng cho Shop, Gacha, Crafting).
+- Build input /output cho Business (tài nguyên cần, tài nguyên được sinh ra )
+- Dictionary (từ điển: từ, định nghĩa, hình ảnh)
 ```
 
 ### Note more
 
 - Flow Art 3D Human
 ```
-Concept -> dựng xương -> tách khối ( chia patch) -> phủ màu ( texture) -> hiệu ứng ( shader)
+Concept -> dựng xương -> tách khối (chia patch) -> texture -> shader
 ```
 
 - Flow Ui
