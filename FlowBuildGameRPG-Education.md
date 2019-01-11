@@ -1,7 +1,7 @@
 ---
-title: Build RPG-Education
+title: Flow Build RPG-Education
 description: Tóm tắt buổi họp ngày 11/01/19
-permalink: /Meeting_11_01_19/
+permalink: /FlowBuildGameRPG-Education/
 ---
 
 ## Flow (Short-term)
@@ -193,3 +193,5 @@ Concept -> dựng xương -> tách khối (chia patch) -> texture -> shader
 ```
 Chức năng + icon + style -> ux -> ui
 ```
+
+This doc will Update more
