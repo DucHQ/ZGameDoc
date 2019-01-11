@@ -1,11 +1,13 @@
 ---
 title: Flow Build RPG-Education
-description: How to build RPG-Education game
+description: Flow build RPG-Education game
 permalink: /FlowBuildGameRPG-Education/
 ---
 
 ## Flow (Short-term)
-How to build RPG-Education game
+
+Flow build RPG-Education game
+
 Update 12/01/19
 
 ### 1. Resource game
