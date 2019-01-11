@@ -33,7 +33,10 @@ Là phần input cơ bản của mỗi game
 	- Ui
 	- Item
 	- Dictionary
-
+- Audio
+	- Music
+	- Sound Effects
+	
 ### 1. Game Mechanics Model
 
 Là phần mà kết hợp rời rạc giữa Design Writers và Design Mechanics, hay có thể hiểu là phần input tool
@@ -126,6 +129,12 @@ Kết nối các phần Mechanics Model lại và Art để show cho End user
 
 - Food game (using Conversation Script - Action npc)
 
+### 3. Pre-Build
+
+- Play /test map, quest
+
+- Add Audio
+
 ## Todo (Short-term)
 
 #### Art
@@ -142,7 +151,8 @@ Update later
 ```
 - Diễn cảnh nói chuyện giữa NPC & Character (Bao gồm cắt cảnh, cử chỉ tay chân, mắt, miệng)
 - Diễn cảnh kể chuyện Story
-- Chuyển cảnh move to Map, Interior
+- Chuyển cảnh move to 
+, Interior
 ```
 ```
 - Action npc - follow nhân vật
